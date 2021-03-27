@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  apiUrl: 'http://localhost:8085/servicio/api_notes_app'
+  apiUrl: 'https://immense-wildwood-39793.herokuapp.com/servicio/api_notes_app'
 };
